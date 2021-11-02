@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="808px" height="240px" viewBox="0 0 808 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Intro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="8.18789481e-14 1.9434454e-13 808 1.9434454e-13 808 239.998564 8.18789481e-14 239.998564"></polygon>
+    </defs>
+    <g id="07-Job-Search-Funnel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Intro">
+            <g id="BG---Stripe-Pattern">
+                <mask id="mask-2" fill="#F7F7F7">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M-3,25.2061838 L-3,-46.634537 L813.628785,-443.655224 L813.628785,-371.815111 L-3,25.2061838 Z M-3,193.375961 L813.628785,-203.653848 L813.628785,-131.817992 L-3,265.211817 L-3,193.375961 Z M-3,145.208635 L-3,73.3727796 L813.628785,-323.657029 L813.628785,-251.821173 L-3,145.208635 Z M-3,312.908702 L813.628785,-84.1211074 L813.628785,-12.2852515 L-3,384.744557 L-3,312.908702 Z M-3,432.911822 L813.628785,35.8814051 L813.628785,107.717261 L-3,504.747678 L-3,432.911822 Z M-3,552.444563 L813.628785,155.414146 L813.628785,227.250002 L-3,624.280419 L-3,552.444563 Z" id="Fill-16" fill="#F7F7F7" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
